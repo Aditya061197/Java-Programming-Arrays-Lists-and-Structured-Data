@@ -9,4 +9,5 @@ You can also find other course specific resources and sample data files you need
 
 <hr>
 
-I am still completing this course. I will keep updating the code as I finish, and I will also attach the link to the certificate upon completion. Hope this helps, thanks!
+I completed this course in 2 weeks time, owing to the extra free time I have due to this lockdown. Here is the link to the <a href="https://coursera.org/share/356ebbf6bac79a270531fec70ef8f057">Cerificate</a>.
+I hope this helps, thanks!
